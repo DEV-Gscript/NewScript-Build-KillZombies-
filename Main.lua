@@ -7,7 +7,7 @@ local Config = {
     Secret          = "43o5oi3245kmgdklfsaslkdfj",
 
     -- [3] Scripts & Links
-    MainScriptURL   = "https://raw.githubusercontent.com/DEV-Gscript/Scripts/refs/heads/main/Build-And-Kill-Zombies",
+    MainScriptURL   = "https://raw.githubusercontent.com/DEV-Gscript/NewScript-Build-KillZombies-/refs/heads/main/Build%26KillZombies",
 
     -- [4] Social Media Settings
     ShowDiscord     = true,
